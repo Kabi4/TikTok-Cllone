@@ -1,3 +1,10 @@
+# `APP LIVE`
+  - [TikTok Clone](#) 
+  
+# `SNEAKY PEAK`
+  - ![TikTok Snekay Peak]() 
+# `BUILD INFO`
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). 
 
 Below you will find some information on how to perform common tasks.<br>
