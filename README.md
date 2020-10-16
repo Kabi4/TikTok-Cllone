@@ -2,7 +2,7 @@
   - [TikTok Clone](https://tiktok-clone-29165.web.app/) 
   
 # `SNEAKY PEAK`
-  - ![TikTok Snekay Peak]() 
+  - ![TikTok Snekay Peak](https://github.com/Kabi4/TikTok-Clone/blob/main/SneakyPeak.png) 
 # `BUILD INFO`
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). 
