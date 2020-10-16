@@ -1,0 +1,3 @@
+export {
+    getdata
+} from './data';

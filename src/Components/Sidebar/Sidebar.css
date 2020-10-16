@@ -1,0 +1,18 @@
+.videoSidebar {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 10px;
+    color: white;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 8px;
+  }
+  
+  .videoSidebar__button {
+    padding: 20px;
+    text-align: center;
+  }
+
+  .heart{
+      fill: rgb(255, 43, 131) !important;
+  }

@@ -1,0 +1,13 @@
+.vedio{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    scroll-snap-align: start;
+    font-size: 1.4rem;
+}
+
+.vedio_player{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
